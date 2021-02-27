@@ -45,6 +45,7 @@ header, footer,nav{
 
 main h2{
     color: blue;
+    text-align: center;
 }
 
 main a{
