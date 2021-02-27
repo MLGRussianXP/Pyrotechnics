@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    align: center;
 }
 
 header{
@@ -24,6 +25,7 @@ h1{
     border-radius: 40px;
     margin: 20px;
     padding: 6px;
+    text-transform: uppercase;
 }
 
 main{
